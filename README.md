@@ -1,2 +1,2 @@
 # Elasticsearch_Client_Test
-关于Elasticsearch 提供的新的Java客户端：JaVa_API_Client的各个操作测试
+关于Elasticsearch 提供的新的Java客户端：Java_API_Client的各个操作测试
